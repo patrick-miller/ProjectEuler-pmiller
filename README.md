@@ -1,4 +1,6 @@
 ProjectEuler-pmiller
 ====================
 
-Project Euler code
+Project Euler
+
+~100 problems solved
